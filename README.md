@@ -1,4 +1,4 @@
-# Git-Out-of-Here
-## No, stick around, great stuff happening.
+# Git-is-Fun
+## Git-is-the-Facebook-of-Programming
 ### We will definitely do some serious coding. 
 My_first_repo_at_EANBiT
