@@ -12,7 +12,7 @@ My favorite cat movie is
 
 > Computers are stupid but fast while humans are smart but slow.
 ```
-### _code block_
+# Code Block
 print `Hello world!`
 
 print `My name is Cool `
