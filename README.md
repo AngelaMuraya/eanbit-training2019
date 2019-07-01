@@ -31,3 +31,10 @@ I have learned:
 - An introduction to markdown 
 
 
+My classmates for the EANBiT are:
+1. Brian
+2. Margaret
+3. David
+4. Elizabeth
+5. Charles
+6. Pauline
