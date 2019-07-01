@@ -17,6 +17,7 @@ print `Hello world!`
 
 print `My name is Cool `
 ```
+print `My name is Cool`
 
 ## My first training day at EANBiT
 
