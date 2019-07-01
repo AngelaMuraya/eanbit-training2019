@@ -4,7 +4,7 @@
 My_first_repo_at_EANBiT
 ***
 
-![Brains at Work](https://pbs.twimg.com/media/DkJvXyBXcAAT_7d.jpg 'Angela in the Building!')
+![Brains at Work](https://pbs.twimg.com/media/DkJvXyBXcAAT_7d.jpg 'Brains at Work!')
 [Check out my GitHub](https://github.com/AngelaMuraya)
 ![Bioinformatics](https://ideal.kemri-wellcome.org/wp-content/uploads/2018/03/how-is-bioinformatics-transforming-biology.jpg)
 
